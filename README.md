@@ -1,3 +1,1 @@
 # WorkDayScheduler
-
-Read
