@@ -29,6 +29,9 @@ the text for that event is saved in local storage,WHen I refresh the page, THEN 
 
 ![image](https://user-images.githubusercontent.com/118404373/210923076-03f14ab4-56d1-4edc-a19c-65a53e0ef35b.png)
 
+![image](https://user-images.githubusercontent.com/118404373/210924481-9544525a-1590-4ed0-839b-0eecdf57b57f.png)
+
+
 
 **To Clone your Local Machine : 
 git clone https://github.com/MohamedAbdullahi2/WorkDayScheduler/edit/main/
