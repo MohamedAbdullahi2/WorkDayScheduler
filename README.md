@@ -3,8 +3,12 @@
 This challenge is to create a workday scheduler using  HTML CSS, javascript and APIs that saves data to the local storage . 
 
 **User Story**
+
+
 AS AN employee with a busy schedule
+
 I WANT to add important events to a daily planner
+
 SO THAT I can manage my time effectively
 
 
