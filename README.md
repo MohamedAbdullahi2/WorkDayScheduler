@@ -45,7 +45,7 @@ Css
 
 clone https://github.com/MohamedAbdullahi2/WorkDayScheduler/edit/main
 
-Deploment Url :-  
+Deploment Url :-  https://mohamedabdullahi2.github.io/WorkDayScheduler/
 
 
 
