@@ -28,24 +28,31 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-**Built 
+**Built**
+
 Vscode 
+
 Javascript
+
 Bootstrap
+
 Html
+
 Css 
 
 
-**Mock Up 
+**Mock Up**
+
 
 ![image](https://user-images.githubusercontent.com/118404373/210925445-9d034c02-1c46-4338-b27f-f35fa91caca5.png)
+
 
 ![image](https://user-images.githubusercontent.com/118404373/210925488-06caa249-4d17-4e10-b472-853226dd4e21.png)
 
 
-**Autho:  Mohamed 
+**Autho:  Mohamed** 
 
-**How to get in Local Machine :- 
+**How to get in Local Machine :- **
 
 clone https://github.com/MohamedAbdullahi2/WorkDayScheduler/edit/main
 
