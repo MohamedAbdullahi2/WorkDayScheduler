@@ -52,7 +52,7 @@ Css
 
 **Autho:  Mohamed** 
 
-**How to get in Local Machine :- **
+**How to get in your local Machine** :- 
 
 clone https://github.com/MohamedAbdullahi2/WorkDayScheduler/edit/main
 
