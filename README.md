@@ -37,6 +37,7 @@ the text for that event is saved in local storage,WHen I refresh the page, THEN 
 git clone https://github.com/MohamedAbdullahi2/WorkDayScheduler/edit/main/
 
 **Deployment URl :- 
+https://mohamedabdullahi2.github.io/WorkDayScheduler/
 
 
 
